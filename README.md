@@ -1,5 +1,5 @@
 # weee
-???? \
+???
 ```
 python -m pip install colr --user
 ```
